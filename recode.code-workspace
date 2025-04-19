@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../brownie code"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "brownie code"
+	}
+}
